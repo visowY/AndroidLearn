@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android_01</string>
+    <string name="marqueen_tip">快讯，红色预警，超强台风"莫兰蒂"即将登陆，请居民关好门窗，备足粮草，做好防汛抗灾准备！</string>
+    <string name="btn_description">按钮测试</string>
 </resources>
